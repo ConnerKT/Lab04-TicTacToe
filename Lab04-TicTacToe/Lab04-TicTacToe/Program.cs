@@ -12,7 +12,7 @@
     }
 
 
-    public internal class Program
+    public class Program
     {
         public static string[][] Board;
         static void Main(string[] args)
